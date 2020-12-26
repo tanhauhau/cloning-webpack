@@ -1,0 +1,4 @@
+{
+  "name": "folder-with-package-json",
+  "main": "./main.js"
+}
